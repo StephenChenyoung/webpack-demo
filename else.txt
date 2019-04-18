@@ -1,0 +1,9 @@
+# if no node_modules
+npm install
+
+#build (if has start => "start": "webpack", )
+npm start
+#build (if no start => "build": "webpack",)
+npm run build
+#run
+npm run server
